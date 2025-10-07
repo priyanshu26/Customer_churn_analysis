@@ -78,4 +78,9 @@ The goal is to help the business reduce churn and improve retention strategies t
 ## 🧰 Tools Used
 
 - **Microsoft Excel** – Data cleaning, Pivot Tables, and Dashboard visualization 
+
+## 📸 Dashboard Preview
+
+<img width="1881" height="956" alt="image" src="https://github.com/user-attachments/assets/63028d7e-54b9-4cc4-9061-62384c18c56a" />
+
   
